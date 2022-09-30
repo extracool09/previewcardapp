@@ -48,6 +48,7 @@ body {
   color: hsl(228, 12%, 42%);
   text-transform: uppercase;
   letter-spacing: 3px;
+  font-size: 14px;
 }
 
 .description-container .product {
